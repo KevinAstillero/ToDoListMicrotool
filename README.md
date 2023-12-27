@@ -1,5 +1,7 @@
 # aslom-vue-app
 
+This is a vue app that enables the user to set and organize his tasks and to do lists. V-for loop was used in the development
+
 ## Project setup
 ```
 npm install
